@@ -1,5 +1,5 @@
 module.exports = {
-  arrowParens: "aviod",
+  arrowParens: "avoid",
   bracketSpacing: true,
   endOfLine: 'lf',
   jsxBracketSameLine: false,
